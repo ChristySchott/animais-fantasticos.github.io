@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  :wolf: Animais Fantásticos :wolf:
+  :tiger: Animais Fantásticos :bear:
 </h1>
 
 <p align="center">
@@ -20,7 +20,8 @@ Esse projeto foi desenvolvido no curso JavaScript Completo ES6, da Origamid, log
 Layout: 
 
 ![Layout do projeto](https://github.com/ChristySchott/animais-fantasticos.io/blob/master/layout/layout1.png)
-![Layout do projeto](https://github.com/ChristySchott/animais-fantasticos.github.io/blob/master/layout/layout2.png)
+![Layout do projeto](https://github.com/ChristySchott/animais-fantasticos.github.io/blob/master/layout/layout3.png)
+![Layout do projeto](https://github.com/ChristySchott/animais-fantasticos.github.io/blob/master/layout/layout4.png)
 
 
 ### Aprendizados:
